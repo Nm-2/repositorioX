@@ -8,7 +8,7 @@ public class Principal {
 		char respuestaVuelta = ' ';
 		char respuestaPartida = ' ';
 		
-		// Comentario de una línea: Maria
+		// Comentario de una línea
 		do {
 			System.out.println("JUEGO: Adivinar número");
 			System.out.println("Voy a pensar un número entre 1 y el que tú me digas");
